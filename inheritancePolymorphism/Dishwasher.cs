@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace inheritancePolymorphism
 {
-    class JetSki : Boat 
+    class Dishwasher : Appliances
     {
-        
+        public override void Clean()
+        {
+            Console.WriteLine("Im clean now");
+        }
     }
 }

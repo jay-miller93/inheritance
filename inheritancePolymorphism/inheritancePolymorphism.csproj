@@ -44,9 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AirCraft.cs" />
+    <Compile Include="Appliances.cs" />
     <Compile Include="AutoMobile1.cs" />
     <Compile Include="Boat.cs" />
-    <Compile Include="JetSki.cs" />
+    <Compile Include="Dishwasher.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vehicle.cs" />
